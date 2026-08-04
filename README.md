@@ -1,6 +1,6 @@
 # URDJ Extensions Mirror
 
-This repository serves exclusively as a download mirror for pre-compiled, unmodified Chromium builds of popular Open-Source extensions. These archives are used by the WebDJ application to provide ad-blocking functionality.
+This repository serves exclusively as a download mirror for pre-compiled, unmodified Chromium builds of popular Open-Source extensions. These archives are used by the URDJ application to provide ad-blocking functionality.
 
 ### Legal & Copyright Notice
 We are **not** the creators, maintainers, or copyright holders of these extensions. We do not modify the code inside these archives. 
